@@ -1,2 +1,5 @@
 githubRepo: openshiftio-vertx-boosters/vertx-http-booster-redhat
 gitRef: master
+labels:
+  - vert.x
+  - redhat
